@@ -1,21 +1,152 @@
-<h1 align="center">Hi 👋, I'm mr-pofa</h1>
-<h3 align="center">i am a hacker</h3>
+[![](https://komarev.com/ghpvc/?username=mr-pofa)
+](https://indify.co/widgets/live/weather/XUeHzS6NfxTeevVcwSuC
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-pofa&label=Profile%20views&color=0e75b6&style=flat" alt="mr-pofa" /> </p>
+<aside>
+🗓️ weeks :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-pofa" alt="mr-pofa" /></a> </p>
+---
 
-- 🔭 I’m currently working on [fifa](https://fifa.com)
+[week 1](https://www.notion.so/week-1-86d66f6bfe7444e3a626d3a5e0122b29?pvs=21)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/xb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com" height="30" width="40" /></a>
-</p>
+</aside>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+https://mr-pofa.github.io/week-day/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-pofa&show_icons=true&locale=en&layout=compact" alt="mr-pofa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-pofa&show_icons=true&locale=en" alt="mr-pofa" /></p>
+<aside>
+🌞 remember
+
+- after make a lot of weeks do this
+    - from week 1 to 10
+        
+        week 1
+        
+        week ..
+        
+    - from week 10 to 20
+    - from week 20 to 30
+    - from week 30 to 40
+    - from week 40 to 52
+    
+    and after you can add years
+    
+
+---
+
+</aside>
+
+| tnin | off |
+| --- | --- |
+| tlat | on |
+| larb3 | off |
+| l5mis | on |
+| jom3a | off |
+| sbt | off |
+| l7ad | MFT(my fitnes test) RUN |
+
+---
+
+![Untitled_Artwork (1).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f5c1dd0-885b-45a8-b0b2-24e2d1c10596/77d9f935-4b4e-4a5f-8559-6ecff099e50b/Untitled_Artwork_(1).gif)
+
+<aside>
+⭐ Features
+
+---
+
+[false day](https://www.notion.so/false-day-899c56ba11474c0a809f7c08c7aaa01c?pvs=21)
+
+[evry task](https://www.notion.so/cdb0acfbc9b8472e905932cccb002176?pvs=21)
+
+</aside>
+
+# *pages*
+
+[Yearly goals](https://www.notion.so/Yearly-goals-72132e12cb314abbb0b66a30f53b6316?pvs=21) 
+
+[about hacking](https://www.notion.so/about-hacking-60bab34530ae4dfd9a0a8c6bab6e72c5?pvs=21) 
+
+[](https://www.notion.so/bba10d22d0d24c5ca2d1788cba8d7c93?pvs=21) 
+
+[spisyal days notes](https://www.notion.so/spisyal-days-notes-57d249acfc294f35815877a82921188c?pvs=21) 
+
+**[school  exercises](https://www.notion.so/school-exercises-66d1090848364b40bbd187e4b56dfd87?pvs=21)** 
+
+[gools & home](https://www.notion.so/gools-home-a7ce7a285941469f8fc343e463ec6007?pvs=21) 
+
+[ides & lite todo list](https://www.notion.so/ides-lite-todo-list-4fc11c7d458947be9815a30d5f21a44c?pvs=21))https://indify.co/widgets/live/weather/XUeHzS6NfxTeevVcwSuC
+
+<aside>
+🗓️ weeks :
+
+---
+
+[week 1](https://www.notion.so/week-1-86d66f6bfe7444e3a626d3a5e0122b29?pvs=21)
+
+</aside>
+
+https://mr-pofa.github.io/week-day/
+
+---
+
+<aside>
+🌞 remember
+
+- after make a lot of weeks do this
+    - from week 1 to 10
+        
+        week 1
+        
+        week ..
+        
+    - from week 10 to 20
+    - from week 20 to 30
+    - from week 30 to 40
+    - from week 40 to 52
+    
+    and after you can add years
+    
+
+---
+
+</aside>
+
+| tnin | off |
+| --- | --- |
+| tlat | on |
+| larb3 | off |
+| l5mis | on |
+| jom3a | off |
+| sbt | off |
+| l7ad | MFT(my fitnes test) RUN |
+
+---
+
+![Untitled_Artwork (1).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f5c1dd0-885b-45a8-b0b2-24e2d1c10596/77d9f935-4b4e-4a5f-8559-6ecff099e50b/Untitled_Artwork_(1).gif)
+
+<aside>
+⭐ Features
+
+---
+
+[false day](https://www.notion.so/false-day-899c56ba11474c0a809f7c08c7aaa01c?pvs=21)
+
+[evry task](https://www.notion.so/cdb0acfbc9b8472e905932cccb002176?pvs=21)
+
+</aside>
+
+# *pages*
+
+[Yearly goals](https://www.notion.so/Yearly-goals-72132e12cb314abbb0b66a30f53b6316?pvs=21) 
+
+[about hacking](https://www.notion.so/about-hacking-60bab34530ae4dfd9a0a8c6bab6e72c5?pvs=21) 
+
+[](https://www.notion.so/bba10d22d0d24c5ca2d1788cba8d7c93?pvs=21) 
+
+[spisyal days notes](https://www.notion.so/spisyal-days-notes-57d249acfc294f35815877a82921188c?pvs=21) 
+
+**[school  exercises](https://www.notion.so/school-exercises-66d1090848364b40bbd187e4b56dfd87?pvs=21)** 
+
+[gools & home](https://www.notion.so/gools-home-a7ce7a285941469f8fc343e463ec6007?pvs=21) 
+
+[ides & lite todo list](https://www.notion.so/ides-lite-todo-list-4fc11c7d458947be9815a30d5f21a44c?pvs=21)
