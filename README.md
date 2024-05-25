@@ -10,7 +10,7 @@
   • I Lives in morocco - tanger.<br>
   • 📧 Contact me at haytamkamlichi@gmail.com<br>
   • 👨‍💻 I’m currently learning django & php & sql <br>
-  • 🧿 View my <a href="https://is-HYM.github.io" target="_blank">web site</a><br>
+  • 🧿 View my <a href="https://im-HYM.github.io" target="_blank">web site</a><br>
 <br>
 
 <h2 align="left">🛠 Language and tools :</h2>
