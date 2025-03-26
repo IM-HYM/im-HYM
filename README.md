@@ -36,7 +36,7 @@
 <h2 align="left">🔥 about me :</h2>
         haytam kamlichi
         and I am a pioneer in the field,
-        having started my journey in 2020. Primarily,
+        having started my journey in 2019. Primarily,
         I operate as a penetration testing lab,
         specializing in identifying and securing security vulnerabilities.
         With strong skills in both front-end and back-end website development,
