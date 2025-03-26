@@ -3,7 +3,7 @@
 
 <h1 align="center">i'm a  🚀 bug hunter  |  💻  linux pentester </br> 🏁 CTF player </h1>
 
-👋 Welcome to my GitHub! I'm "haytam", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2020. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
+👋 Welcome to my GitHub! I'm "haytam", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2019. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
    <br>
 
 <h2> 💫 About Me : </h2>
